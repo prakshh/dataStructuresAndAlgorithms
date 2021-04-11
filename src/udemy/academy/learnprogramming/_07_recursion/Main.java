@@ -1,4 +1,4 @@
-package udemy.academy.learnprogramming.recursion;
+package udemy.academy.learnprogramming._07_recursion;
 
 public class Main {
 
