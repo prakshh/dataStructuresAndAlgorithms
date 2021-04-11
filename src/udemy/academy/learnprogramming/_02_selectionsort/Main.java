@@ -1,4 +1,4 @@
-package udemy.academy.learnprogramming.selectionsort;
+package udemy.academy.learnprogramming._02_selectionsort;
 
 public class Main {
 
