@@ -1,4 +1,4 @@
-package udemy.academy.learnprogramming.shellsort;
+package udemy.academy.learnprogramming._04_shellsort;
 
 public class Main {
 
