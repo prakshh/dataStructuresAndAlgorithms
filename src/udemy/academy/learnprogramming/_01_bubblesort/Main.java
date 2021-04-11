@@ -1,4 +1,4 @@
-package udemy.academy.learnprogramming.bubblesort;
+package udemy.academy.learnprogramming._01_bubblesort;
 
 public class Main {
 
