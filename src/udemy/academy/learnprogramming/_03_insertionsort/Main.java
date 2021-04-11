@@ -1,4 +1,4 @@
-package udemy.academy.learnprogramming.insertionsort;
+package udemy.academy.learnprogramming._03_insertionsort;
 
 public class Main {
 
