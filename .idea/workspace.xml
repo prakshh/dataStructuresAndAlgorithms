@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f8d3bbd-8ad7-44e8-ad1d-db093f158323" name="Default Changelist" comment="06 mergesort">
+    <list default="true" id="4f8d3bbd-8ad7-44e8-ad1d-db093f158323" name="Default Changelist" comment="07 quicksort">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +93,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../LeetCode" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="udemy.academy.learnprogramming._05_recursion.Main" />
       <module name="dataStructuresAndAlgorithms" />
@@ -197,10 +197,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618499426471</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="07 quicksort">
+      <created>1618499758970</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1618499758970</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -353,6 +360,7 @@
     <MESSAGE value="05 recursion" />
     <MESSAGE value="git ignores" />
     <MESSAGE value="06 mergesort" />
-    <option name="LAST_COMMIT_MESSAGE" value="06 mergesort" />
+    <MESSAGE value="07 quicksort" />
+    <option name="LAST_COMMIT_MESSAGE" value="07 quicksort" />
   </component>
 </project>
