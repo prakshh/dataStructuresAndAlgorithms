@@ -1,4 +1,5 @@
 package udemy.academy.learnprogramming._11_challenge1;
+// modify merge sort algorithm so that it sorts integers in Descending order
 
 public class Main {
 
